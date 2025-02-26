@@ -37,17 +37,6 @@ Antes de executar o projeto, certifique-se de ter o Python instalado.
 3. Clique em **"Calcular"** para processar os dados.
 4. Clique em **"Baixar Relatório Word"** para salvar um documento com os resultados.
 
-## Estrutura do Projeto
-```
-Calculadora_Adicional_Noturno/
-│── calculadora_horanoturna.py  # Arquivo principal do programa
-│── calculadora_horanoturna.spec # Arquivo gerado para compilação
-│── dist/  # Diretório onde o executável será gerado (caso compilado)
-│── build/ # Diretório auxiliar da compilação
-│── rlgclc.ico  # Ícone do programa (se houver)
-│── teste.py  # Arquivo de testes (opcional)
-```
-
 ## Exemplo de Relatório Gerado
 O arquivo gerado será um **.docx** contendo uma tabela com:
 - Data
